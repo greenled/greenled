@@ -1,8 +1,6 @@
-### Hello. I'm Juan Carlos Mejías Rodríguez. I'm a software engineer and systems administrator. My voice is my passport. Verify me.
+### Hello. I'm Juan Carlos Mejías Rodríguez.
 
-https://user-images.githubusercontent.com/3944055/123853273-41ee9100-d8eb-11eb-9927-5c85cec93da0.mp4
-
-*"Deep in Her Eyes" by Peter Hajba (Skaven)*
+I'm a software engineer and systems administrator. My voice is my passport. Verify me.
 
 <h4 align="center">Some random ✨Flair✨:</h4>
 
