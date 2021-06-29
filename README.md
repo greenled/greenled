@@ -19,7 +19,7 @@ https://user-images.githubusercontent.com/3944055/123853273-41ee9100-d8eb-11eb-9
 </p>
 
 <p align="center">
-  <a href="https://profile.codersrank.io/user/greenled/"><img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=greenled&badges=2&show-avatar=false&style=--header-bg-color:%23272822;--bg-color:%23272822;--header-text-color:%23eb1f6a;--badge-bg-color:%2332342c;--badge-margin:5px;--badge-text-color:%23f1f1eb;--border:none;--border-radius:4px;--name-font-size:16px;--name-font-weight:600;--rank-font-size:14px;--badge-rank-font-size:14px;--badge-location-font-size:14px;--branding-text-color:%23e28905&width=240&branding=false"/></a>
+  <a href="https://profile.codersrank.io/user/greenled/"><img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=greenled&badges=3&show-avatar=false&style=--header-bg-color:%23272822;--bg-color:%23272822;--header-text-color:%23eb1f6a;--badge-bg-color:%2332342c;--badge-margin:5px;--badge-text-color:%23f1f1eb;--border:none;--border-radius:4px;--name-font-size:0;--rank-font-size:9px;--badge-rank-font-size:9px;--badge-location-font-size:9px;--badge-technology-font-size:7px;--branding-text-color:%23e28905&width=240&branding=false&layout=horizontal"/></a>
   <br/>
   <em>Powered by <a href="https://codersrank.io">CodersRank</a></em>
 </p>
