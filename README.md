@@ -1,4 +1,4 @@
-### Hello. I'm Juan Carlos Mejías Rodríguez.
+### Hello. I'm Juan Carlos.
 
 I'm a software engineer, and casual gamer. My voice is my passport. Verify me.
 
